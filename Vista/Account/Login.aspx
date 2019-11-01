@@ -44,7 +44,7 @@
                         </div>
                     </div>
                 </div>
-                <h1>Hola</h1>
+                <h1>Hola 1/11/2019</h1>
                 <p>
                     <%-- Enable this once you have account confirmation enabled for password reset functionality
                     <asp:HyperLink runat="server" ID="ForgotPasswordHyperLink" ViewStateMode="Disabled">Forgot your password?</asp:HyperLink>
