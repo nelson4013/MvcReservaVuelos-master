@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-md-12">
                 <h1 class="text-primary">AGENDA DE VUELOS AEREOS<small><br>Reserva de pasajes online<span class="glyphicon glyphicon-send" aria-hidden="true"></span></small></h1>
-                <p class="lead">Raúl Rosero H.</p>
+                <p class="lead">Curso QA 2019</p>
             </div>                       
         </div>
 
