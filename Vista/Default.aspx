@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-md-12">
                 <h1 class="text-primary">AGENDA DE VUELOS AEREOS<small><br>Reserva de pasajes online<span class="glyphicon glyphicon-send" aria-hidden="true"></span></small></h1>
-                <p class="lead">Curso QA 2019 con Sonar Video</p>
+                <p class="lead">Curso QA 2019 con Sonar Video </p>
             </div>                       
         </div>
 
@@ -14,7 +14,7 @@
 
     <div class="row">
         <div class="col-md-4">
-            <h2 class="text-info">Consultar Vuelos <span class="glyphicon glyphicon-plane" aria-hidden="true"></span></h2>
+            <h2 class="text-info">Consultar Vuelos<span class="glyphicon glyphicon-plane" aria-hidden="true"></span></h2>
             <p>
                 Pordrá realizar la reserva de vuelos, dependiendo de su disponibilidad de tiempo, seleccionando su lugar de origen y su lugar de destino.
             </p>
